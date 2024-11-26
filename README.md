@@ -1,11 +1,11 @@
 # **Digital Skill Fair 33.0 - Data Science Class**
 
 <p align='center'>
-    <a href="https://www.python.org/">
+    <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp;&nbsp;
-    <a href="https://jupyter.org/">
+    <a href="https://jupyter.org/" target="_blank">
         <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>&nbsp;&nbsp;
-    <a href="https://streamlit.io/">
+    <a href="https://streamlit.io/" target="_blank">
         <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/></a>&nbsp;&nbsp;
 
 </p>
@@ -31,7 +31,8 @@
 
 ## **Demo Project**
 
-[Breast Cancer Application](https://dsf-breast-cancer.streamlit.app/)
+<a href="https://dsf-breast-cancer.streamlit.app/" target="_blank">Breast Cancer Application</a>
+
 
 
 ## Domain Proyek
@@ -143,4 +144,4 @@ Berdasarkan evaluasi model, SVM menunjukkan performa terbaik dengan akurasi tert
 
 ## **Resources**
 
--   **UCI Machine Learning Repository** : https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+-   **UCI Machine Learning Repository** : <a href="https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic" target="_blank">Breast Cancer Wisconsin Diagnostic</a>
