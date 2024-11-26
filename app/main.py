@@ -156,6 +156,7 @@ def get_radar_chart(input_data):
         showlegend=True,
         width=650,
         height=650,
+        margin=dict(r=50),
         legend=dict(
             orientation="h",
             y=1.15,
